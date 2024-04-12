@@ -1,0 +1,76 @@
+
+this is the Test for sk1
+
+I have finished iteration...
+time for decaps with sk1: 
+average: 67459 cycles/ticks
+Standard Deviation: 88424 cycle/tickets
+Variance: 7818292747 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk1: 
+average: 65637 cycles/ticks
+Standard Deviation: 75477 cycle/tickets
+Variance: 5697111067 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk1: 
+average: 66656 cycles/ticks
+Standard Deviation: 78725 cycle/tickets
+Variance: 6196781555 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk1: 
+average: 66239 cycles/ticks
+Standard Deviation: 77061 cycle/tickets
+Variance: 5938718098 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk1: 
+average: 66631 cycles/ticks
+Standard Deviation: 77157 cycle/tickets
+Variance: 5952295790 cycle/tickets
+length:7999
+
+
+this is the Test for sk2
+
+I have finished iteration...
+time for decaps with sk2: 
+average: 65368 cycles/ticks
+Standard Deviation: 79714 cycle/tickets
+Variance: 6354517812 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk2: 
+average: 81555 cycles/ticks
+Standard Deviation: 106712 cycle/tickets
+Variance: 11388233676 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk2: 
+average: 69238 cycles/ticks
+Standard Deviation: 83461 cycle/tickets
+Variance: 6965725832 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk2: 
+average: 75413 cycles/ticks
+Standard Deviation: 93396 cycle/tickets
+Variance: 8723233754 cycle/tickets
+length:7999
+
+I have finished iteration...
+time for decaps with sk2: 
+average: 67117 cycles/ticks
+Standard Deviation: 75305 cycle/tickets
+Variance: 5670890750 cycle/tickets
+length:7999
+
